@@ -95,15 +95,11 @@ PetroleumSystemException
    ```bash
    git clone <repository-url>
    ```
-3. Navigate to the project directory:
-   ```bash
-   cd Petroleum_Project
-   ```
-4. Compile the project:
+3. Compile the project:
    ```bash
    javac src/petroleum_managemnt_system/*.java
    ```
-5. Run the application:
+4. Run the application:
    ```bash
    java -cp src petroleum_managemnt_system.Main
    ```
